@@ -4,3 +4,5 @@
 pyvenv.cfg
 /__pycache__
 /.idea
+test.py
+settings.ini
